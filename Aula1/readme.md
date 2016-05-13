@@ -1,6 +1,6 @@
-**Primeira aula de Python Básico
+** Primeira aula de Python Básico
 
-***Exercícios (resolvidos no arquivo aula1.py)
+*** Exercícios (resolvidos no arquivo aula1.py)
 
 * Defina uma variável qualquer
 * Veja o tipo de variável criada

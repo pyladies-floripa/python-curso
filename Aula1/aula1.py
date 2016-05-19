@@ -65,12 +65,6 @@ dic['pyladies']
 dic['floripa']
 dic[2]
 
-#Importando um módulo
-import math
-
-#utilizando a função deste módulo
-math.sqrt(4) #sqrt é a função squareroot ou raiz quadrada
-
 #Exercicio 1: Faça parecer Oi, Pyladies
 print('Oi, Pyladies!')
 

@@ -18,3 +18,5 @@ Neste curso de Python você aprenderá:
 - Criação de aplicações simples;
 - Tratamento de exceção;
 - Manipulação de Arquivos;
+
+Os exercícios resolvidos seguem os exercícios propostos aqui: http://wiki.python.org.br/ListaDeExercicios
